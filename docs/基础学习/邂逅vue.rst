@@ -90,7 +90,7 @@ v-bind 动态绑定style
 -------------------------
 通过计算属性，我们可以完成多个变量的合并工作。
 
-.. literalinclude:: ../../../day01/04-计算属性/01-计算属性基本使用.html
+.. literalinclude:: ../../day01/04-计算属性/01-计算属性基本使用.html
    :encoding: utf-8
    :language: html
    :emphasize-lines: 18-22,6-8
@@ -102,7 +102,7 @@ v-bind 动态绑定style
 -------------------------
 通过计算属性，我们可以完成多个变量的复杂工作。
 
-.. literalinclude:: ../../../day01/04-计算属性/02-计算属性复杂使用.html
+.. literalinclude:: ../../day01/04-计算属性/02-计算属性复杂使用.html
    :encoding: utf-8
    :language: html
    :emphasize-lines: 18-22,6-8
@@ -115,7 +115,7 @@ getter和setter
 -------------------------
 通过计算属性，可以给计算属性设置get和set
 
-.. literalinclude:: ../../../day01/04-计算属性/03-计算属性的getter和setter.html
+.. literalinclude:: ../../day01/04-计算属性/03-计算属性的getter和setter.html
    :encoding: utf-8
    :language: html
    :emphasize-lines: 18-22,6-8

@@ -1,4 +1,4 @@
 {
-    "restructuredtext.confPath": "${workspaceFolder}/docs/source",
     "python.pythonPath": "/Users/dxm/Envs/sphinx/bin/python",
+    "restructuredtext.confPath": "${workspaceFolder}/docs",
 }
