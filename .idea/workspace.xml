@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de6d09ec-3372-428c-a305-14cd35d13470" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/day01/01-初体验/03-计数器.html" beforeDir="false" afterPath="$PROJECT_DIR$/day01/01-初体验/03-计数器.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01/04-计算属性/01-计算属性复杂使用.html" beforeDir="false" afterPath="$PROJECT_DIR$/day01/04-计算属性/02-计算属性复杂使用.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/day01.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/day01.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +34,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/day01/04-计算属性" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -41,6 +43,9 @@
       <recent name="$PROJECT_DIR$/day01/03-动态绑定属性" />
       <recent name="$PROJECT_DIR$/day01/02-差值操作" />
       <recent name="$PROJECT_DIR$/day01/01-初体验" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/source/imgs" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -53,7 +58,9 @@
       <updated>1608902817118</updated>
       <workItem from="1608902825543" duration="2983000" />
       <workItem from="1608912204199" duration="2283000" />
-      <workItem from="1608991509368" duration="4195000" />
+      <workItem from="1608991509368" duration="4639000" />
+      <workItem from="1608999648291" duration="306000" />
+      <workItem from="1609000089122" duration="2121000" />
     </task>
     <servers />
   </component>
