@@ -8,31 +8,18 @@
     <title>Document</title>
 </head>
 <body>
-<script src="../js/vue.js"></script>
-
 <div id="app">
-    <h2>{{ cnt }}</h2>
-    <button @click="add">+</button>
-    <button @click="sub">-</button>
+    <h2 v-once >{{ cnt }}</h2>
 
 </div>
+<script src="../js/vue.js"></script>
 <script>
     let app = new Vue({
         el: "#app",
         data: {
-            cnt:1,
-        },
-        methods:{
-            add: function (){
-                this.cnt+=1
-            },
-            sub: function(){
-                this.cnt-=1
-            }
+            cnt: 1,
         }
-
     })
 </script>
-
 </body>
 </html>

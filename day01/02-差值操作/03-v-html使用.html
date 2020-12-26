@@ -8,31 +8,19 @@
     <title>Document</title>
 </head>
 <body>
-<script src="../js/vue.js"></script>
-
 <div id="app">
-    <h2>{{ cnt }}</h2>
-    <button @click="add">+</button>
-    <button @click="sub">-</button>
+    <p>Using mustaches: {{ rawHtml }}</p>
+    <p>Using v-html directive: <span v-html="rawHtml"></span></p>
 
 </div>
+<script src="../js/vue.js"></script>
 <script>
     let app = new Vue({
         el: "#app",
         data: {
-            cnt:1,
-        },
-        methods:{
-            add: function (){
-                this.cnt+=1
-            },
-            sub: function(){
-                this.cnt-=1
-            }
+            rawHtml: '<span style="color:red"> this should be red</span>'
         }
-
     })
 </script>
-
 </body>
 </html>
